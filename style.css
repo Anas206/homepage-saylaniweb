@@ -1,0 +1,112 @@
+*{
+     margin: 0;
+    padding: 0;
+    
+} 
+
+ul li{
+    list-style: none;
+    overflow: hidden;
+    background-color: #333;
+}
+a{
+    text-decoration: none;
+}
+ul li a:hover:not(.active){
+    background-color:blue;
+    
+}
+.headbuttons{
+    padding: 5px;
+}
+.active{background-color: blue;}
+
+/* .navbar li{
+    display: inline block;
+} */
+li a {
+    display: block;color: white;
+}
+
+.vip222{
+    background-color: white;
+}
+
+
+ .navbar li a{
+
+    padding: 4px 15px 20px;
+    color: black;
+    
+    
+ }
+ 
+ 
+
+.seprater{
+    width: 70px;
+    height: 3px;
+    display: block;
+    background-color: green
+
+}
+ 
+    
+.logo img{
+    width: 200px;
+    display: inline-block;
+}
+ul li {
+     display: inline-block; 
+}
+
+ul li a {
+    padding: 0 14px;
+
+}
+
+
+ul {
+    margin-top: 9px;
+}
+
+.header {
+    background: #e8e8e8;
+}
+
+.image{
+    text-align: justify;
+    height: 20px;
+    width: 300px;
+}
+.vip1{
+    background:#e8e8e8;
+}
+.vip2{
+    background: #2755e9;
+}
+.what{
+    background: #e8e8e8;
+}
+
+ .services{background:#e8e8e8 ;
+    color: black;
+}
+
+.vip3 {
+    background: #e8e8e8;
+
+}
+.seprater{
+    width: 90px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+.projects marquee{
+    height: 200px;
+}
+ .endimage{
+    display: inline block;
+}
